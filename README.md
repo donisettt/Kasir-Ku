@@ -9,5 +9,5 @@
 ![ds manajer](https://github.com/user-attachments/assets/067b5ade-bf63-48e2-8254-2372221c48a9)
 ![ds kasir](https://github.com/user-attachments/assets/e2e9678b-5a2b-43da-b820-cf1944d7a003)
 
-#Aplikasi Pelayanan Kasir Restaurant Laravel 9
+# Aplikasi Pelayanan Kasir Restaurant Laravel 9
 Aplikasi ini dibuat menggunakan framework php laravel 9 dengan tema adminlte
